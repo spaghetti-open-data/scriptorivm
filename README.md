@@ -1,3 +1,3 @@
 # scriptorivm
 
-Un repository per collaborare all'hackathon di @openpompei 
+A repository to collaborate to [@openpompei](http://www.openpompei.it/) hackathon 
